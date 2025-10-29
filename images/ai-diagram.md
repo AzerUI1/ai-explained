@@ -10,4 +10,4 @@ The visual combines multiple informative sources to give a clear overview of AI 
 ## 🔹 Diagrams
 ![AI Diagram 1](https://www.gptechblog.com/content/images/size/w1200/2023/07/five-diagrams.png)  
 ![AI Diagram 2](https://www.shutterstock.com/image-vector/aiartificial-intelligence-infographic-banner-neural-600nw-1102392971.jpg)  
-![AI Diagram 3](https://www.researchgate.net/publication/342164553/figure/fig1/AS:905592369590273@1592921454278/Artificial-intelligence-progression-diagram-AI-artificial-intelligence-CNN.ppm)
+![AI Diagram 3](https://www.ibm.com/content/adobe-cms/us/en/architectures/hybrid/genai-rag/jcr:content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/image.coreimg.png/1724214592730/rag-product-mapping.png)
